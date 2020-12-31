@@ -1,0 +1,2 @@
+class ApplicationPreviewsController < ViewComponentsController
+end
